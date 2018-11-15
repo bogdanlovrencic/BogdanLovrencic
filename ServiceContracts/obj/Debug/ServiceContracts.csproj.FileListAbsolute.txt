@@ -1,0 +1,65 @@
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.pdb
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.dll
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.pdb
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.dll
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.pdb
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbi (3)\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbi (3)\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbi (3)\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbi (3)\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbi (3)\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.pdb
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.dll
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.pdb
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.dll
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.pdb
+C:\Users\Bogdan\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\Bogdan\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\Bogdan\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csprojAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\Bogdan\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.pdb
+C:\Users\Administrator\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\Administrator\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\Administrator\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\Administrator\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.pdb
+C:\Users\Bogdan\Desktop\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\Bogdan\Desktop\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\Bogdan\Desktop\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csprojAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\Bogdan\Desktop\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.pdb
+C:\Users\Administrator\Desktop\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\Administrator\Desktop\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\Administrator\Desktop\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\Administrator\Desktop\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.pdb
+C:\Users\Bogdan\Desktop\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\Bogdan\Desktop\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\Bogdan\Desktop\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csprojAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\Bogdan\Desktop\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.pdb
+C:\Users\Administrator\Desktop\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\Administrator\Desktop\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\Administrator\Desktop\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\Administrator\Desktop\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.pdb
+C:\Users\Administrator\Desktop\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csprojAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Projekat (5)\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\Bogdan\Desktop\Projekat (5)\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\Bogdan\Desktop\Projekat (5)\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csprojAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Projekat (5)\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\Projekat (5)\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\Bogdan\Desktop\Projekat (5)\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.pdb
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbiProjekat\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.dll
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbiProjekat\SistemZaSlanjeZalbi\ServiceContracts\bin\Debug\ServiceContracts.pdb
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbiProjekat\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbiProjekat\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbiProjekat\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.dll
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbiProjekat\SistemZaSlanjeZalbi\ServiceContracts\obj\Debug\ServiceContracts.pdb

@@ -1,0 +1,55 @@
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.dll
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.pdb
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.dll
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbi (3)\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbi (3)\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbi (3)\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbi (3)\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.dll
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbi (3)\SistemZaSlanjeZalbi (2)\SistemZaSlanjeZalbi (1)\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.pdb
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.dll
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.pdb
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.dll
+D:\fax\Sigurnost i bezbednost elektoenergetskog softvera\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.pdb
+C:\Users\Bogdan\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.dll
+C:\Users\Bogdan\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.pdb
+C:\Users\Bogdan\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.dll
+C:\Users\Bogdan\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.pdb
+C:\Users\Bogdan\Desktop\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.dll
+C:\Users\Bogdan\Desktop\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.pdb
+C:\Users\Bogdan\Desktop\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.dll
+C:\Users\Bogdan\Desktop\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.pdb
+C:\Users\Bogdan\Desktop\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.dll
+C:\Users\Bogdan\Desktop\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.pdb
+C:\Users\Bogdan\Desktop\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.dll
+C:\Users\Bogdan\Desktop\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Projekat (5)\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.dll
+C:\Users\Bogdan\Desktop\Projekat (5)\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.pdb
+C:\Users\Bogdan\Desktop\Projekat (5)\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\Projekat (5)\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.dll
+C:\Users\Bogdan\Desktop\Projekat (5)\Projekat (4)\Projekat (3)\Projekat (2)\Projekat\Projekat\SistemZaSlanjeZalbi\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbiProjekat\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbiProjekat\SistemZaSlanjeZalbi\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbiProjekat\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbiProjekat\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbiProjekat\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.dll
+C:\Users\Administrator\Desktop\SistemZaSlanjeZalbiProjekat\SistemZaSlanjeZalbi\Manager\obj\Debug\Manager.pdb

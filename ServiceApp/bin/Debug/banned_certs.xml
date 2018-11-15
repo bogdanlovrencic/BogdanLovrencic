@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Korisnici>
+  <Korisnik>CN=Test1CA</Korisnik>
+  <Korisnik>CN=ProjekatCA</Korisnik>
+  <Korisnik>CN=marko</Korisnik>
+  <Korisnik>CN=ivan</Korisnik>
+</Korisnici>
